@@ -45,10 +45,10 @@ Crie um novo método GET para receber três parâmetros na rota (path) **uf**, *
 
 Preencha a checklist para finalizar o exercício:
 
-- [X] Resolver o exercício
-- [X] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [X] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [X] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
-- [X] Realizar o pull request
+- [ ] Resolver o exercício
+- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
+- [ ] Realizar o pull request
 
 ###### tags: `nodeJS` `módulo 2` `exercício de classe` `express` `http` `api` `async` `await`

@@ -1,62 +1,12 @@
-[
-    {
-        "cep": "01001-000",
-        "logradouro": "Praça da Sé",
-        "complemento": "lado ímpar",
-        "bairro": "Sé",
-        "localidade": "São Paulo",
-        "uf": "SP",
-        "ibge": "3550308",
-        "gia": "1004",
-        "ddd": "11",
-        "siafi": "7107"
-    },
-    {
-        "cep": "01001-001",
-        "logradouro": "Praça da Sé",
-        "complemento": "lado par",
-        "bairro": "Sé",
-        "localidade": "São Paulo",
-        "uf": "SP",
-        "ibge": "3550308",
-        "gia": "1004",
-        "ddd": "11",
-        "siafi": "7107"
-    },
-    {
-        "cep": "30441-028",
-        "logradouro": "Rua Marechal Hermes",
-        "complemento": "até 539/540",
-        "bairro": "Gutierrez",
-        "localidade": "Belo Horizonte",
-        "uf": "MG",
-        "ibge": "3106200",
-        "gia": "",
-        "ddd": "31",
-        "siafi": "4123"
-    },
-    {
-        "cep": "30170-050",
-        "logradouro": "Rua Matias Cardoso",
-        "complemento": "",
-        "bairro": "Santo Agostinho",
-        "localidade": "Belo Horizonte",
-        "uf": "MG",
-        "ibge": "3106200",
-        "gia": "",
-        "ddd": "31",
-        "siafi": "4123"
-    },
-    {
-        "cep": "30230-050",
-        "logradouro": "Beco Eucalípto",
-        "complemento": "",
-        "bairro": "Nossa Senhora de Fátima",
-        "localidade": "Belo Horizonte",
-        "uf": "MG",
-        "ibge": "3106200",
-        "gia": "",
-        "ddd": "31",
-        "siafi": "4123"
-    }
-]
+{
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+}
